@@ -11,4 +11,5 @@ if(n&(n-1)==0)
 else
   printf("n IS NOT THE POWER OF 2");
 }
+}
 
